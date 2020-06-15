@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="newquote">New Quote</string>
+    <string name="rayquote">Always Keep Learning - Ray Wenderlich</string>
+    <string name="wolesquote">Never you undermine the power of your brian</string>
+    <string name="name">Oluwole Elvis Benson</string>
+    <string name="location">Lagos, Nigeria</string>
+    <string name="twitter">itz_wole</string>
+    <string name="phoneNum">08060966929</string>
+    <string name="email">elviswole@outlook.com</string>
+    <string name="username">Elviswole</string>
+    <string name="headphoto">Head Picture</string>
+    <string name="dorisLessing">“That is what learning is. You suddenly understand something you’ve understood all your life, but in a new way.” – Doris Lessing</string>
+    <string name="bbking"> “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King</string>
+
+</resources>
